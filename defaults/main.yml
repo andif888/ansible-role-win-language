@@ -1,0 +1,3 @@
+---
+# defaults file for ansible-role-win-language
+win_user_language: en-US
